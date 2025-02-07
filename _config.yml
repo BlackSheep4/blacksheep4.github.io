@@ -28,8 +28,8 @@ url: "https://blog.cyberit.es"
 github:
   username: blacksheep4 # change to your GitHub username
 
-#twitter:
-#  username: twitter_username # change to your Twitter username
+linkedin:
+  username: álvaro-b-937a641aa # change to your LinkedIn username
 
 social:
   # Change to your full name.
@@ -39,8 +39,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/blacksheep4 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/álvaro-b-937a641aa/
 
 # Site Verification Settings
