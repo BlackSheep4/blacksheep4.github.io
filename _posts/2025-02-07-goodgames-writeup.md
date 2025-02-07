@@ -157,13 +157,13 @@ Priority: u=0, i
 name={{7*7}}
 ```
 
-![[]]
+![/assets/img/writeups/goodgames/htb-writeup-goodgames-3.png](/assets/img/writeups/goodgames/htb-writeup-goodgames-3.png)
 
 Con esto podemos identificar la plantilla jinja2. Ya que este cálculo matemático es típico de una vulnerabilidad SSTI en el motor de platilla Jinja2.
 
 A continuación intentamos ejecutar un RCE (Remote Code Execution):
 
-![[htb-writeups-image-4.png]]![image tooltip here](/assets/image.jpg)
+![/assets/img/writeups/goodgames/htb-writeup-goodgames-2.png](/assets/img/writeups/goodgames/htb-writeup-goodgames-2.png)
 
 ```
 POST /settings HTTP/1.1
